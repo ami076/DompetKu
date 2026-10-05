@@ -1,2 +1,0 @@
-# DompetKu
-Aplikasi catatan keuangan
